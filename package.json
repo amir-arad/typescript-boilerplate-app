@@ -37,7 +37,7 @@
     "cross-var": "1.1.0",
     "npm-run-all": "4.1.2",
     "rimraf": "2.6.2",
-    "sinon": "4.4.6",
+    "sinon": "4.4.7",
     "tap-colorize": "1.2.0",
     "tap-merge": "0.3.1",
     "tape": "4.9.0",
