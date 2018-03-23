@@ -7,10 +7,10 @@ Generic project boilerplate for isomorphic TypeScript
 
 ### project features
  - Typescript in strict mode (the only way to roll!)
- - Customised 3rd parrty typings in `./custom_typings` folder
+ - Customised 3rd party typings in `./custom_typings` folder
  - Fully automated tests that run both in node and browser using tape
- - Automatically discoverable tests (by glob pattern defined in package.json)
- - Dev server for live updates in browser and transpiled files 
+ - Automatically discoverable tests (by glob pattern)
+ - server for live updates in browser
  - Least opinionated setup: no run time dependencies and minimal configuration
 
 ## developer documentation
