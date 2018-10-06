@@ -34,7 +34,7 @@
     "browserify": "16.1.1",
     "browserify-hmr": "0.3.6",
     "browserify-middleware": "8.1.0",
-    "budo": "11.2.0",
+    "budo": "11.4.0",
     "cross-var": "1.1.0",
     "express": "4.16.3",
     "glob": "7.1.2",
