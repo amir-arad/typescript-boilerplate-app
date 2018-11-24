@@ -49,7 +49,7 @@
     "tape-run": "3.0.4",
     "tape-worm": "0.0.3",
     "ts-node": "^5.0.1",
-    "tsify": "3.0.4",
+    "tsify": "4.0.1",
     "typescript": "2.7.2",
     "watchify": "3.11.0"
   },
