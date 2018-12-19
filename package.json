@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@types/sinon": "4.3.0",
-    "@types/tape": "4.2.32",
+    "@types/tape": "4.2.33",
     "browserify": "16.1.1",
     "browserify-hmr": "0.3.6",
     "browserify-middleware": "8.1.0",
