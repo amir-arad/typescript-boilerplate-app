@@ -29,7 +29,7 @@
     "start": "budo test/browser-env.ts test/*.spec.ts -s=test.bundle --live -p 8080 -- --debug -p [ browserify-hmr ] -p [ tsify ]"
   },
   "devDependencies": {
-    "@types/sinon": "4.3.0",
+    "@types/sinon": "7.0.2",
     "@types/tape": "4.2.32",
     "browserify": "16.1.1",
     "browserify-hmr": "0.3.6",
