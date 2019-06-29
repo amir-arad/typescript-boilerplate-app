@@ -45,7 +45,7 @@
     "tap-colorize": "1.2.0",
     "tap-merge": "0.3.1",
     "tap-set-exit": "1.1.1",
-    "tape": "4.9.0",
+    "tape": "4.11.0",
     "tape-run": "3.0.4",
     "tape-worm": "0.0.3",
     "ts-node": "^5.0.1",
